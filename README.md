@@ -1,1 +1,1 @@
-# RCGNN_streamflow
+# StreamPred
