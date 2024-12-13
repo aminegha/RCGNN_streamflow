@@ -13,7 +13,7 @@ Predicting the spatiotemporal variation in streamflow, along with uncertainty qu
   conda env create -f env_streamflow_.yml
   ```
 
-- **Run the Example:**
+- **Run an example:**
 
   You can run for an example dataset using this command:
 
@@ -21,7 +21,7 @@ Predicting the spatiotemporal variation in streamflow, along with uncertainty qu
   python gnn_example.py
   ```
 
-  You can run a streamflow prediction model using this command:
+- **You can run a streamflow prediction model using this command:
 
   ```bash
   python gnn_tgds.py
@@ -29,7 +29,7 @@ Predicting the spatiotemporal variation in streamflow, along with uncertainty qu
 
 - **Run the GP File:**
 
-  For Uncertainty Qyantification, you can run Gussian Process model using (You need to run a streamflow prediction model first):
+  For Uncertainty Qyantification, you can run the Gussian Process model using (You need to run a streamflow prediction model first):
 
   ```bash
   python gp_nn.py
