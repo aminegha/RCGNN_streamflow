@@ -38,6 +38,6 @@ Predicting the spatiotemporal variation in streamflow, along with uncertainty qu
 - **Reference:**
 
   For more details, refer to the paper:
-  Gharsallaoui, Mohammed Amine, et al. "Streamflow Prediction with Uncertainty Quantification for Water Management: A Constrained Reasoning and Learning Approach." arXiv preprint arXiv:2406.00133 (2024).
+  Gharsallaoui, Mohammed Amine, et al. "Streamflow Prediction with Uncertainty Quantification for Water Management: A Constrained Reasoning and Learning Approach."  https://www.ijcai.org/proceedings/2024/804.
 
 
